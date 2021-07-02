@@ -1,0 +1,11 @@
+{
+    "name": "wira/course_framework",
+    "description": "Manage course template",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "fabpot/goutte": "^4.0"
+    },
+    "autoload":{
+        "psr-4" : {"PXA\\": "src/"}
+    }
+}

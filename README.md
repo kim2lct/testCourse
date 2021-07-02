@@ -1,2 +1,3 @@
 # testCourse
-just for fun
+user:adminku
+pass:admin123
